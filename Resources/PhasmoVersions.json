@@ -1,9 +1,23 @@
 [
    {
-      "PhasmoVersion":"TEST",
+      "PhasmoVersion":"TEST 1",
       "PhasmoManifest":"6670187091170116752 ",
       "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1662268711472777795",
       "year": "2020",
       "row": 0
-   }
+   },
+   {
+      "PhasmoVersion":"TEST 2",
+      "PhasmoManifest":"6670187091170116752 ",
+      "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1662268711472777795",
+      "year": "2021",
+      "row": 0
+   },
+   {
+      "PhasmoVersion":"TEST 3",
+      "PhasmoManifest":"6670187091170116752 ",
+      "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/1662268711472777795",
+      "year": "2022",
+      "row": 0
+   },
 ]
